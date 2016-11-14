@@ -1,0 +1,44 @@
+#filter {
+  background-color: #fff;
+}
+
+.colp-mid {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  border-radius: 0;
+  padding: 10px 15px;
+  display: none;
+}
+
+.errorMess {
+    color: red;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.displayA {
+    display: block;
+}
+
+.displayNoA {
+    display: none;
+}
+
+.displayB {
+    display: block;
+}
+
+.displayNoB {
+    display: none;
+}
+
+.displayC {
+    display: block;
+}
+
+.displayNoC {
+    display: none;
+}
